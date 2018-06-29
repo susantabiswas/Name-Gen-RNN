@@ -5,16 +5,17 @@ Indian name generation using Gated Recurrent units. It uses a character level la
 <p align="center">
   <img src="media/1.JPG" >
  </p>
+As you can see the model generates some names which doesn't sound quite indian, but with more data and training that problem can be solved.
 
 ## Training Plot
 <p align="center">
   Training loss<br>
-  <img src="media/loss.JPG" >
+  <img src="media/loss.png" >
 </p>
 
 <p align="center">
   Training Accuracy<br>
-  <img src="media/acc.JPG" >
+  <img src="media/acc.png" >
 </p>
 
 ## Model Architecture
